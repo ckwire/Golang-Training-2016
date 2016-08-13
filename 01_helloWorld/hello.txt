@@ -1,0 +1,1 @@
+Hey, example text file for testing Git.
